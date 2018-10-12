@@ -1,1 +1,3 @@
-ruby-the-hard-way
+ruby-the-hard-way https://learnrubythehardway.org/book/
+
+Exercise 0 [X] Exercise 1 [x] Exercise 2 []
